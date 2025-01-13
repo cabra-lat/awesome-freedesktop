@@ -10,7 +10,7 @@ description = {
    license = "GPL-2.0"
 }
 dependencies = {
-   "lua >= 5.3",
+   "lua >= 5.1",
 }
 supported_platforms = { "linux" }
 build = {
